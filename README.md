@@ -26,3 +26,35 @@ This project provides a modern, role-based interface for administrators, drivers
 ---
 
 ## 📂 Project Structure
+transport-system/ 
+├── backend/          # Server-side code (API, database models) 
+├── frontend/         # Client-side code (UI, components) 
+├── docs/             # Documentation and guides 
+├── tests/            # Unit and integration tests 
+└── README.md         # Project overview
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16+)
+- MySQL/PostgreSQL
+- Git
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/codedbytk/student-transport-system.git
+
+# Navigate into the project
+cd transport-system
+
+# Install dependencies
+npm install
+
+# Start the backend server
+npm run server
+
+# Start the frontend
+npm run client
