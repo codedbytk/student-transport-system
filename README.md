@@ -25,16 +25,6 @@ This project provides a modern, role-based interface for administrators, drivers
 
 ---
 
-## 📂 Project Structure
-transport-system/ 
-├── backend/          # Server-side code (API, database models) 
-├── frontend/         # Client-side code (UI, components) 
-├── docs/             # Documentation and guides 
-├── tests/            # Unit and integration tests 
-└── README.md         # Project overview
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -58,3 +48,28 @@ npm run server
 
 # Start the frontend
 npm run client
+```
+
+---
+
+📖 Usage
+- Admin: Manage routes, buses, and users.
+- Driver: View assigned routes and update trip status.
+- Student: Book seats, view schedules, and track buses.
+
+---
+
+🤝 Contributing
+Contributions are welcome!
+Please fork the repository and submit a pull request with clear commit messages.
+
+---
+
+👨‍💻 Authors
+- Takudzwa (TK) – Lead Developer & Architect
+
+---
+
+🌍 Acknowledgements
+- NUST Bulawayo community for inspiration
+- Open-source libraries and frameworks used in development
